@@ -39,7 +39,7 @@ The Spring boot cloud conjur sdk does not support creating, deleting, or updatin
 
 |  Technology    |  Version |
 |----------------|----------|
-| Java           |  11      |
+| Java           |  17 or + |
 | Conjur OSS     |  1.9+    |
 | Conjur Enterprise | 12.5  |
 |ConjurSDK(Java) |  4.0.0   |
