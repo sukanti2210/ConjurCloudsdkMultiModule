@@ -1,6 +1,0 @@
-#!/bin/bash -e
-
-rm -rf .env
-pushd conjur-intro
-  docker-compose down -v
-popd
